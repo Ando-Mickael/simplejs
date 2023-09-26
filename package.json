@@ -1,0 +1,23 @@
+{
+  "name": "@ando__mickael/simplejs",
+  "version": "0.0.2",
+  "description": "This is a simple js library",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "knex",
+    "nodemailer",
+    "openai"
+  ],
+  "author": "ando__mickael",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.2.0",
+    "knex": "^2.4.2",
+    "nodemailer": "^6.9.3",
+    "openai": "^3.3.0",
+    "pg": "^8.11.0"
+  }
+}
